@@ -1,0 +1,4 @@
+This is version 1 of the project
+I want this to go into commit
+Changed by me.
+Sourc code changed
